@@ -1,4 +1,4 @@
-<h1 align="center">Hi Fellow Contributers <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"/>, I am  YMM  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40"/></h1>
+<h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"/>How you doin'  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40"/></h1>
 <h3 align="center">Electrical engineer specialized in Biomedical processing</h3>
 <img align ="right" alt="Coding" width"200" height="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ymirwani&label=Profile%20views&color=0e75b6&style=flat" alt="ymirwani" /> </p>
