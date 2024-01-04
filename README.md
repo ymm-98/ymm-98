@@ -20,6 +20,7 @@
 
 <!-- GitHub Stats-->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ymirwani&theme=tokyonight&show_icons=true"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ymirwani&theme=tokyonight&show_icons=true&count_private=true"/>
+  <!-- <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ymirwani&theme=tokyonight&show_icons=true"/> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymirwani&theme=tokyonight&show_icons=true" />
 </div>
