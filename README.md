@@ -20,8 +20,8 @@
 
 <!-- GitHub Stats-->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ymirwani&theme=tokyonight&show_icons=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ymm-98&theme=tokyonight&show_icons=true&count_private=true"/>
   <!--<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ymirwani&theme=tokyonight&show_icons=true"/>-->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymirwani&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymirwani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ymm-98&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymm-98&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
